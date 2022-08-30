@@ -35,6 +35,9 @@
 .box16 {
   background-color: orange;
 }
+.content:hover {
+  background-color: lightgray;
+}
 
 .zero {
   grid-column: 1 / 3;
